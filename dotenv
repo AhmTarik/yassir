@@ -1,0 +1,3 @@
+IQAIR_API_KEY="d393bad6-704e-4f2b-a494-9ac7b2bad8a5"
+IQAIR_BASE_URL="http://api.airvisual.com"
+MONGO_DB_CONNECTION="mongodb+srv://testuser:qNcpC1skVd5tqWlK@cluster0.av9fuzs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
